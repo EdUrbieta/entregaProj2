@@ -1,0 +1,14 @@
+/home/arzoe/IdeaProjects/restfuji/src/main/java/org/acme/controller/ClienteCont.java
+/home/arzoe/IdeaProjects/restfuji/src/main/java/org/acme/controller/PetCont.java
+/home/arzoe/IdeaProjects/restfuji/src/main/java/org/acme/repository/ClienteRepo.java
+/home/arzoe/IdeaProjects/restfuji/src/main/java/org/acme/MyEntity.java
+/home/arzoe/IdeaProjects/restfuji/src/main/java/org/acme/controller/ProdCont.java
+/home/arzoe/IdeaProjects/restfuji/src/main/java/org/acme/repository/PetRepo.java
+/home/arzoe/IdeaProjects/restfuji/src/main/java/org/acme/service/ProdutoService.java
+/home/arzoe/IdeaProjects/restfuji/src/main/java/org/acme/GreetingResource.java
+/home/arzoe/IdeaProjects/restfuji/src/main/java/org/acme/model/Pet.java
+/home/arzoe/IdeaProjects/restfuji/src/main/java/org/acme/service/ClienteService.java
+/home/arzoe/IdeaProjects/restfuji/src/main/java/org/acme/model/Cliente.java
+/home/arzoe/IdeaProjects/restfuji/src/main/java/org/acme/service/PetService.java
+/home/arzoe/IdeaProjects/restfuji/src/main/java/org/acme/model/Produto.java
+/home/arzoe/IdeaProjects/restfuji/src/main/java/org/acme/repository/ProdutoRepo.java

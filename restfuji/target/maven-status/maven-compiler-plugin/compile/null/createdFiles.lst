@@ -1,0 +1,15 @@
+org/acme/repository/ClienteRepo.class
+org/acme/controller/ClienteCont.class
+org/acme/service/ClienteService.class
+org/acme/service/ProdutoService.class
+org/acme/model/Produto.class
+org/acme/repository/ProdutoRepo.class
+org/acme/GreetingResource.class
+org/acme/model/Cliente.class
+org/acme/model/Pet.class
+org/acme/MyEntity.class
+org/acme/controller/ProdCont.class
+org/acme/controller/PetCont.class
+META-INF/panache-archive.marker
+org/acme/service/PetService.class
+org/acme/repository/PetRepo.class
